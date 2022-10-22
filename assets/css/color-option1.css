@@ -1,0 +1,83 @@
+/* ==================== TEXT COLOR ===================== */
+a:hover, a:focus, .bredcrumb .pager.middle a, .element-sidenav .nav-item > a.nav-link:hover, .element-sidenav .nav-item.active > a.nav-link, .icon-left.card.card-accordion .card-header.header-inverse a, .btn-primary-outlined,
+.list-group-item a:hover .badge, .list-group-item-primary a, .card .card-title:hover, .icon-left.card.card-accordion .card-header.header-inverse a, .selectOptions .sbOptions a:hover, ul.nav .nav-item.active .nav-link, .icon_tabs .nav-item a.nav-link:hover .fa, .icon_tabs .nav-item a.nav-link.active .fa, .nav-tabs.bar-tabs .nav-link.active h5, .th-accordions .collapse-bar:after, .th-accordions .collapse-bar:hover, .th-accordions a[aria-expanded="true"], .media.blog-media:hover .media-body h5, .media.blog-media:hover .media-body a.post-link, .countUp .count-text, .contact-media .icon.icon-circle, .hover-overlay .icon-ract:hover i, .hover-overlay .icon-circle:hover, .card.info-card .card-block span, .main-nav .nav-item a.nav-link:hover, .main-nav .nav-item.active a.nav-link, .header-transparent.navbar-sticky .nav-item a.nav-link:hover, .header-transparent.navbar-sticky.main-nav .nav-item.active a.nav-link, .pricing .circle .price, p.price span, .pricing_image-card .circle span.price, .info .icon, .info.info-boxed:hover a, .testimonial2 .card-block i,
+.services .tooltip-inner, .kit .tooltip-inner, .services-details .tooltip-inner, .member-details-page .tooltip-inner, .home-portfolio ul#filters li.active a, .home-portfolio ul#filters li:hover a, .footer .social-icons .btn-social-o:hover, .page-comingsoon .form_subscribe i, .service_single-area .service_details-desc ul.styled_list i, .sidebar .list-group .list-group-item a:hover, .block .carousel-item .overlay-link i, .tags a:hover, .member-details .member_desc li i, .blog-sidebar .media .media-body h6 a:hover, .comment_title .btn, .reply_title .btn, .dropdown-menu a.active, .dropdown-item.active {
+  color: #9B59B6;
+}
+
+/* ==================== BACKGROUND COLOR ===================== */
+.img_overlay-container a.icon:hover, .card.card-accordion .card-header a, .btn-primary, .btn-primary-outlined:hover, .btn-primary-outlined:focus, .btn-primary-outlined.active, .btn-primary-outlined:active, .socialLink a:focus, .socialLink a:hover, .socialLink a.active, .socialLink a:active,
+.footer-dark .socialLink a:focus, .footer-dark .socialLink a:hover, .footer-dark .socialLink a.active, .footer-dark .socialLink a:active, .badge-primary, .list-group-item.active, .card.card-accordion .card-header a, .b-carousel-v1 .carousel-indicators li.active, .b-carousel-v1 .carousel-control span.icon-prev:hover, .b-carousel-v1 .carousel-control span.icon-prev:focus, .b-carousel-v1 .carousel-control span.icon-next:hover, .b-carousel-v1 .carousel-control span.icon-next:focus, .testimonial-carousel .carousel-indicators li.active, .arrow-shade button.slick-arrow:hover, .arrow-shade button.slick-arrow:focus, .slick-dots li.slick-active button, .checkbox-custom:checked + .checkbox-custom-label:before, .radio-custom:checked + .radio-custom-label:before, .progress.bordered .progress-bar, .progress-bar-primary, .progress-bar, ul.nav-tabs.no-bg .nav-item .nav-link.active, ul.nav-tabs.nav-pills .nav-item .nav-link.active, .quick-view-bullets li.active a span, .countUp.counter2 .info-count .icon-circle, .main-nav .dropdown-menu:before, .main-nav .dropdown-menu li.dropdown .submenu:before, .main-nav .dropdown-menu li.dropdown.show, .page-item.active a.page-link, .page-item:hover a.page-link, .progress-holder .progress .progress-bar:after, .circle, .pricing .btn:hover, .pricing.delux .card-header, .price-card:before, .price-card:after, .price-card:hover .btn, .pricing_image-card .btn:hover, .section-title.title-ex1 h2:after, .info:hover .icon-ract:before, .info:hover .icon-circle, .info.info-boxed:hover .icon-circle, .kit-testimonial-carousel .slick-dots li.slick-active button, .backToTop, .backToTop:hover, .banner .tp-caption.rev-btn a:hover, .home-about .promo-video .video-button i, .home-about .promo-video:hover .video-button i, .home-portfolio ul#filters li.active a:after, .home-team .slick-dots li.slick-active button, .page-comingsoon .count-down .tab-val, .block .carousel-indicators li.active, .tags a, .member-details .member_contact .social-icons .btn:hover, .comment_title .btn:hover, .reply_title .btn:hover, .daterangepicker td.active, .daterangepicker td.active:hover, .custom_rev_slider .tp-icon-layer {
+  background: #9B59B6;
+  background-color: #9B59B6;
+}
+
+/* ==================== BORDER COLOR ===================== */
+.brd-primary, .img_overlay-container a.icon:hover, .card.card-accordion .card-header a, .icon-left.card.card-accordion .card-header.header-inverse a, .btn-primary, .btn-primary-outlined, .socialLink a:focus, .socialLink a:hover, .socialLink a.active, .socialLink a:active, .footer-dark .socialLink a:focus, .footer-dark .socialLink a:hover, .footer-dark .socialLink a.active, .footer-dark .socialLink a:active, .list-group-item.active, .card.card-accordion .card-header a, .icon-left.card.card-accordion .card-header.header-inverse a, .b-carousel-v1 .carousel-indicators li.active, .b-carousel-v1 .carousel-control span.icon-prev:hover, .b-carousel-v1 .carousel-control span.icon-prev:focus, .b-carousel-v1 .carousel-control span.icon-next:hover, .b-carousel-v1 .carousel-control span.icon-next:focus, .testimonial-carousel .carousel-indicators li.active, .arrow-shade button.slick-arrow:hover, .arrow-shade button.slick-arrow:focus, .checkbox-custom:checked + .checkbox-custom-label:before, .radio-custom:checked + .radio-custom-label:before, ul.nav-tabs.no-bg .nav-item .nav-link.active, ul.nav-tabs.nav-pills .nav-item .nav-link.active, p.devider.devider_primary, .th-accordions a[aria-expanded="true"], .page-item.active a.page-link, .page-item:hover a.page-link, .pricing .btn:hover, .price-card:hover .btn, .pricing_image-card .btn:hover, p.devider.devider_primary, .info:hover .icon-ract, .page-comingsoon .count-down .tab-val, .tags a, .tags a:hover, .member-details .member_contact .social-icons .btn:hover, .comment_title .btn, .reply_title .btn {
+  border-color: #9B59B6;
+}
+
+/*================ Special Case ================= */
+.btn-primary:hover, .btn-primary:focus, .btn-primary.active, .btn-primary:active {
+  background-color: #9B59B6 !important;
+  border: 1px solid #9B59B6 !important;
+}
+
+.bg-primary {
+  background-color: #9B59B6 !important;
+}
+
+.date-holder::after, .box-video .btn-play:after {
+  border-left-color: #9B59B6;
+}
+
+ul.nav-tabs .nav-item .nav-link.active {
+  border-top-color: #9B59B6;
+}
+
+.icon_tabs .nav-item a.nav-link:before, .nav-tabs.bar-tabs .nav-link.active:before, .seperator:before, .seperator:after {
+  border-bottom-color: #9B59B6;
+}
+
+.text-primary, .copyright p a:hover, .project-details-wrapper .project_specification .row a:hover,
+.home-classic .tooltip-inner, .services .tooltip-inner, .kit .tooltip-inner, .services-details .tooltip-inner, .member-details-page .tooltip-inner {
+  color: #9B59B6 !important;
+}
+
+.hover-overlay.effect-scale:before, .media.blog-media > a:before {
+  background-color: rgba(155, 89, 182, 0.7) !important;
+}
+
+.backToTop:before {
+  border-color: rgba(155, 89, 182, 0.3) !important;
+}
+
+.tp-caption.rev-btn, .tp-caption.tp-svg-layer, .page-comingsoon .count-down .tab-val {
+  background: #9B59B6 !important;
+}
+
+.tp-caption.tp-svg-layer {
+  border-color: #9B59B6 !important;
+}
+
+.seperator svg.seperator-icon, .path-1 {
+  fill: #9B59B6;
+}
+
+::-moz-selection {
+  background: #9B59B6 !important;
+}
+
+::selection {
+  background: #9B59B6 !important;
+}
+
+/*================ Special Function Mix ================= */
+@media (min-width: 768px) {
+  .main-nav .dropdown-menu a:hover {
+    background-color: #9B59B6;
+  }
+  .search_hook form.search_form {
+    border-top: 3px solid #9B59B6;
+  }
+}
